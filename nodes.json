@@ -1,0 +1,20 @@
+{
+  "nodes": {
+    "node01.example.com": {
+      "type": "agent",
+      "ip": "192.168.32.10",
+      "ports": [],
+      "memory": 512,
+      "box": "centos/7",
+      "environment": "development"
+    },
+    "node02.example.com": {
+      "type": "agent",
+      "ip": "192.168.32.20",
+      "ports": [],
+      "memory": 512,
+      "box": "ubuntu/trusty64",
+      "environment": "development"
+    }
+  }
+}
