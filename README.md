@@ -9,7 +9,7 @@ This template has been configured to synchronize all hosts through your VMs defi
 Getting it running
 ------------------
 
-* git clone
+* git clone git@github.com:vblazquez/vagrant-ansible.git
 * vagrant up
 
 Vagrant Tricks
